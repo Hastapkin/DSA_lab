@@ -1,0 +1,11 @@
+Page 0 → Page 1
+Page 1 → Page 2
+Page 2 → Page 0
+Page 2 → Page 3
+
+PageRank converged after 13 iterations.
+PageRank scores:
+Page 0: 0.370833
+Page 1: 0.314028
+Page 2: 0.223611
+Page 3: 0.091528
